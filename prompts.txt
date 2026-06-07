@@ -1,0 +1,2 @@
+Based on the personal profile information in the doc and the avatar image in img, please help me create a personal website. Use the website style defined in design/design.md.
+根據doc裡的個人資料介紹以及img裡的頭像，幫我建立一個個人網站。網站風格使用design資料夾的design.md的定義。
